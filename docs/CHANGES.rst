@@ -4,8 +4,7 @@ Changelog
 1.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
-
+- cleanup & documentation
 
 1.0 (2012-06-05)
 ----------------
