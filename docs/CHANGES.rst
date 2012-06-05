@@ -4,7 +4,7 @@ Changelog
 1.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- re compile resources
 
 
 1.1 (2012-06-05)

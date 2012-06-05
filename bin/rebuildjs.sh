@@ -4,12 +4,14 @@ HERE=$PWD
 TOP=$HERE/..
 CHOSEN=$TOP/src.mrdeveloper/chosen
 AJAXCHOSEN=$TOP/src.mrdeveloper/ajaxchosen
+
+export PATH="$TOP/bin":$PATH
 buildchosen() {
-    cd ${CHOSEN} && cake build
+    cd ${CHOSEN} && coffee -o chosen/ -c coffee/ && cake build 
 }
 
 buildajaxchosen() {
-    cd ${AJAXCHOSEN} && cake build
+    cd ${AJAXCHOSEN} && make && cake build && cake compile
 }
 cpdist() {
     cd $TOP && \
