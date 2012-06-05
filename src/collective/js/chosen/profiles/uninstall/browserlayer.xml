@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+  <layer remove="true" name="collective.js.chosen-theme" interface="collective.js.chosen.interfaces.IThemeSpecific"/>
+  <layer remove="true" name="collective.js.chosen" interface="collective.js.chosen.interfaces.ILayer"/>
+</layers>
