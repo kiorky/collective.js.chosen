@@ -14,16 +14,14 @@
   <!-- Viewlets registration -->
 
   <!-- Zope 3 browser views -->
-  <!--
     <browser:page
         layer="collective.js.chosen.interfaces.ILayer"
-        for="collective.js.chosen.interface.mycontent"
-        name="MyView"
+        for="*"
+        name="chosen-js-test"
         class=".view.MyView"
         allowed_interface=".view.IMyView"
         permission="zope2.View"
       />
-  -->
 
   <!-- Zope 3 browser resources -->
 

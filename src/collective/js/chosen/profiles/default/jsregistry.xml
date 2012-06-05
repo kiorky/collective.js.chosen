@@ -16,5 +16,10 @@
   <!--
     <javascript id="++resource++collective.js.chosen/something.js"/>
     -->
-
+  <javascript enabled="0" id="++resource++collective.js.chosen/chosen.jquery.js"/>
+  <javascript enabled="0" id="++resource++collective.js.chosen/ajax-chosen.js"/>
+  <javascript enabled="0" id="++resource++collective.js.chosen/chosen.proto.js"/>
+  <javascript enabled="0" id="++resource++collective.js.chosen/chosen.proto.min.js"/>
+  <javascript enabled="1" id="++resource++collective.js.chosen/chosen.jquery.min.js"/>
+  <javascript enabled="1" id="++resource++collective.js.chosen/ajax-chosen.min.js"/>
 </object> 

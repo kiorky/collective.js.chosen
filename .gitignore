@@ -26,3 +26,5 @@ dist
 *.tmp*
 var
 sys
+
+src.mrdeveloper/*

@@ -22,5 +22,9 @@
   -->
   <!--
     <stylesheet id="++resource++collective.js.chosen/something.css"/>
-    --> 
+    -->
+  <stylesheet
+      id="++resource++collective.js.chosen/chosen.css"
+      enabled="1"
+    />
 </object>
