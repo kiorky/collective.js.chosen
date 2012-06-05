@@ -4,6 +4,18 @@ Introduction
 
 .. contents::
 
+
+Description
+==============
+
+- Integrates chosen & ajaxchosen resources (js, css) into plone.
+
+- You can view a sample at http://someplonesite/@@chosen-js-test
+
+- For developers there are scripts to update chosen & ajaxchosen resources, see the buildout (base.cfg).
+
+- `Repository <https://github.com/collective/collective.js.chosen>`_
+
 Credits
 ========
 Companies
